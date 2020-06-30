@@ -1,0 +1,1 @@
+dic.txt 3 38 Saul 123 7.560000 Francisco 465 7.890000 Rosa 456 8.700000 

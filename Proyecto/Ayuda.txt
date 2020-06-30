@@ -1,0 +1,20 @@
+1.- El juego comienza con CUBOMAN situado en un extremo del contenedor, 
+    y del extremo contrario una pared de cubos. 
+
+2.- La pared se moverá hacia CUBOMAN cada 10 segundos. Pero el timepo 
+    ira disminuyendo con forme avance el juego.
+
+3.- CUBOMAN podrá desplazarse hacia arriba, abajo, izquierda y derecha, 
+    con las flechas del teclado, también podrá disparar cubos (con la 
+    tecla A) que chocaran con la pared, y la destruirá poco a poco.
+
+4.- El objetivo es crear un hueco lo suficientemente grande para que 
+    CUBOMAN quepa cuando la pared llegue al final del contenedor.
+
+5.- Si la pared llega al final del contenedor y alguno de los cubos de 
+    la pared chocan con CUBOMAN, el juego habra terminado.
+
+6.- Cada cubo de la pared destruido tendra un valor de 10 puntos.
+
+
+

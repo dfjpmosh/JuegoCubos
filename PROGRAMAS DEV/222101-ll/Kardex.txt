@@ -1,0 +1,15 @@
+Nombre 1: Nombre
+Tipo 1: 3
+Tamaño 1: 22
+Clave 1: 0
+
+Nombre 2: Clave
+Tipo 2: 1
+Tamaño 2: 4
+Clave 2: 1
+
+Nombre 3: Calif.
+Tipo 3: 2
+Tamaño 3: 4
+Clave 3: 0
+
